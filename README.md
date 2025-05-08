@@ -8,3 +8,5 @@ Quick replacement of the _"same"_ helper container, which was not updated anymor
 docker build --tag  natzediekatze/alpine-curl-jq:latest .
 docker push docker.io/natzediekatze/alpine-curl-jq:latest
 ```
+
+Hope you enjoy!
